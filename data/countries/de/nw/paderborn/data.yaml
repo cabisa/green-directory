@@ -1,0 +1,154 @@
+---
+country: DE
+district: Paderborn
+emails:
+  - address: buero@gruene-paderborn.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.xn--padergrn-d6a.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruene.Paderborn
+  - type: TWITTER
+    url: https://twitter.com/GruenePb
+---
+country: DE
+district: Paderborn
+emails:
+  - address: buero@gruenejugend-pb.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: YOUTH_ORGANIZATION
+urls:
+  - type: WEBSITE
+    url: http://gruenejugend-pb.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneJugendKreisPaderborn
+  - type: TWITTER
+    url: https://twitter.com/gruenejugend_pb
+  - type: INSTAGRAM
+    url: http://www.instagram.com/gruenejugend_pb/
+city: Altenbeken
+country: DE
+district: Paderborn
+emails:
+  - address: buero@gruene-paderborn.de
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-altenbeken.de/
+  - type: FACEBOOK
+    url: https://de-de.facebook.com/DieGruenenAltenbeken/
+---
+city: Bad Lippspringe
+country: DE
+district: Paderborn
+emails:
+  - address: buero@gruene-paderborn.de
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.xn--padergrn-d6a.de/kreisverband/gruene-lokal-aktiv/8034-2/
+  - type: FACEBOOK
+    url: https://de-de.facebook.com/GrueneBali/
+---
+city: Borchen
+country: DE
+district: Paderborn
+emails:
+  - address: buero@gruene-paderborn.de
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.xn--padergrn-d6a.de/kreisverband/gruene-lokal-aktiv/borchen/
+  - type: FACEBOOK
+    url: https://de-de.facebook.com/borchengruen/
+---
+city: Büren
+country: DE
+district: Paderborn
+emails:
+  - address: buero@gruene-paderborn.de
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.xn--padergrn-d6a.de/kreisverband/gruene-lokal-aktiv/bueren/
+---
+city: Delbrück
+country: DE
+district: Paderborn
+emails:
+  - address: info@gruene-delbrueck.de
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.xn--padergrn-d6a.de/kreisverband/gruene-lokal-aktiv/delbrueck/
+  - type: FACEBOOK
+    url: https://de-de.facebook.com/Gruene.Delbrueck/
+---
+city: Lichtenau
+country: DE
+district: Paderborn
+emails:
+  - address: buero@gruene-paderborn.de
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-lichtenau.de/startseite/
+---
+city: Hövelhof
+country: DE
+district: Paderborn
+emails:
+  - address: vorstand@gruene-hoevelhof.de
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hoevelhof.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruene.Hoevelhof
+---
+city: Paderborn
+country: DE
+district: Paderborn
+emails:
+  - address: buero@gruene-paderborn.de
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.xn--padergrn-d6a.de/paderborn/
+---
+city: Salzkotten
+country: DE
+district: Paderborn
+emails:
+  - address: buero@gruene-paderborn.de
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-salzkotten.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneSalzkotten/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenesalzkotten/
+
