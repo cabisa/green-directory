@@ -55,7 +55,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.xn--padergrn-d6a.de/kreisverband/gruene-lokal-aktiv/8034-2/
+    url: https://www.padergrün.de/kreisverband/gruene-lokal-aktiv/bad-lippspringe/
   - type: FACEBOOK
     url: https://de-de.facebook.com/GrueneBali/
 ---
@@ -109,7 +109,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-lichtenau.de/startseite/
+    url: https://gruene-lichtenau.de/
 ---
 city: Hövelhof
 country: DE
