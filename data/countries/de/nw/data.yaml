@@ -325,21 +325,6 @@ urls:
     url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Kreisverband-Olpe-445658712181177/
 ---
 country: DE
-district: Paderborn
-emails:
-  - address: buero@gruene-paderborn.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: https://www.xn--padergrn-d6a.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/Gruene.Paderborn
-  - type: TWITTER
-    url: https://twitter.com/GruenePb
----
-country: DE
 district: Remscheid
 emails:
   - address: kreisverband@gruene-remscheid.de
